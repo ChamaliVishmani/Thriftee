@@ -1,0 +1,5 @@
+44 - made location : updates on firestore but shows mt lavinia only-chamalivishmani account
+45 - google signup done , price filter corrected
+47 - copy of 45
+
+to do : payment gateway

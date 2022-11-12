@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "951624956596",
+    "project_id": "thrifteev7",
+    "storage_bucket": "thrifteev7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951624956596:android:d66dbab382d6e9bb97b5e1",
+        "android_client_info": {
+          "package_name": "com.thrifteev7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951624956596-ifo2ht2sbpgf052m9qstij9c7i78j0lt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thrifteev7",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "951624956596-qmev5kejbc9ha24fmv18t404hhi5apbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ2aOy2MVsphi8CVQhj-mNhicLhmogF-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951624956596-qmev5kejbc9ha24fmv18t404hhi5apbp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
